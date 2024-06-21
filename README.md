@@ -29,3 +29,4 @@ The app is currently iOS only, but I would like to expand to android in the futu
 - run `npm install`
 - run the app from Xcode
 # NewsApp
+# NewsApp
